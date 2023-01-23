@@ -16,6 +16,7 @@ sleep(5)
 #Selecionar Resolução do jogo e abrir - time (10)
 pyautogui.click(1049,726)
 sleep(10)
+pyautogui.click(1015,823)
 #Clicar em max buy
 def max_buy():
     for i in range(1,5):
