@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">  
-Criação do zero de um codigo para automatizar a gameplay do jogo Adventure Capitalist.
+Este código automatiza uma série de passos para jogar o jogo Adventure Capitalist na plataforma Steam. Ele usa a biblioteca pyautogui para simular cliques e movimentos do mouse e time.sleep para pausar a execução do script entre cada ação. Ele também usa loops e funções para realizar tarefas repetitivas, como comprar lojas e upgrades no jogo.
 
 
 </p>
@@ -36,7 +36,8 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-Projeto realizado para aprender mais sobre automação de processos e melhorar a velocidade para realizar tarefas repetitivas, usando o jogo Adventure Capitalist como aprendizado para projetos maiores, já que sua gameplay é formada por uma repetição padrão de ações. 
+Projeto realizado para aprender mais sobre automação de processos e melhorar a velocidade para realizar tarefas repetitivas.<br>
+
 <br>
 
 ## 📸 Layouts
